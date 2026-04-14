@@ -7,3 +7,4 @@ caching
 e2e
 otel/ddog
 rebased PRs
+v2.4.5
